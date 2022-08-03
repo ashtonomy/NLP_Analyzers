@@ -1,0 +1,20 @@
+###############################################
+# FILE: metadata
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-2 8:50:31
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@PRE
+<1,1> uppercase();
+
+@RULES
+_identifier <-
+	_xALPHA	### (1)
+	\: [one]	### (2)
+	_xALPHA
+	_xEND
+	@@

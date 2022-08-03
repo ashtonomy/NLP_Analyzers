@@ -1,0 +1,18 @@
+###############################################
+# FILE: decimals
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-3 11:32:49
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@RULES
+_noun <-
+	_xNUM					### (1)
+	\.						### (2)
+	_xNUM					### (3)
+	_xWHITE					### (4)
+	_xWILD [one match=(cm mm)]	### (5)
+	@@

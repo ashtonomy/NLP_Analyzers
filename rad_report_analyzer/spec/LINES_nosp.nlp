@@ -1,0 +1,31 @@
+###############################################
+# FILE: LINES_nosp.pat
+# SUBJ: Segment lines, for dicttokz analyzers.
+# AUTH: AM
+# CREATED: 26/Aug/11 21:55:08
+# MODIFIED:
+###############################################
+
+@CODE
+L("hello") = 0;
+@@CODE
+
+@PATH _ROOT
+
+@PRE
+<3,3> varz("NL");
+<4,4> var("NL");	# The newline-before-me attribute.
+@POST
+  if (N("NL",2) > 1)
+    {
+	++X("PARS");	# Count potential paragraphs.
+	++S("PAR");
+	}
+  singler(2,3);
+@RULES
+_LINE [unsealed] <-
+	_header
+	_xANY
+	_xWILD [star fail=(_dummy)]
+	_xANY [opt lookahead]
+	@@

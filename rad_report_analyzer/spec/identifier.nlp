@@ -1,0 +1,28 @@
+###############################################
+# FILE: metadata
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-2 8:50:31
+# MODIFIED:
+###############################################
+
+@NODES _header
+
+@PRE
+<1,1> uppercase();
+
+@POST
+S("key") = N("$text", 1);
+S("value") = N("$text", 5);
+single();
+
+@RULES
+_identifier <-
+	_xALPHA							### (1)
+	_xBLANK [opt]					### (2)
+	_xPUNCT [min=1 max=2]			### (3)
+	_xBLANK							### (4)
+	_xWILD							### (5)
+	_xWILD [one matches=(\n \r)]	### (6)
+	@@
+

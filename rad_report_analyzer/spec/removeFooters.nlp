@@ -1,0 +1,50 @@
+###############################################
+# FILE: rmFooters
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-2 14:38:57
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+	excise(1,6);
+	noop();
+
+@RULES
+_xNIL <-
+	Report							### (1)
+	_xWHITE							### (2)
+	approved						### (3)
+	_xWHITE							### (4)
+	on								### (5)
+	_xWILD [one matches=(\r \n)]	### (6)
+	@@
+
+@POST
+	excise(1,6);
+	noop();
+
+@RULES
+_xNIL <-
+	NationalRad						### (1)
+	_xWHITE							### (2)
+	\|								### (3)
+	_xWILD							### (4)
+	com								### (5)
+	_xWILD [one matches=(\r \n)]	### (6)
+@@
+
+@POST
+	excise(1,5);
+	noop();
+
+@RULES
+_xNIL <-
+	Page							### (1)
+	_xWILD							### (2)
+	of								### (3)
+	_xWILD							### (4)
+	_xWILD [one matches=(\r \n)]	### (5)
+@@

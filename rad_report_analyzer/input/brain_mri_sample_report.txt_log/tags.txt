@@ -1,0 +1,277 @@
+[/[ NationalRad/UNKNOWN Sample/UNKNOWN Neuroradiology/UNKNOWN Report/UNKNOWN ]/] Imaging/UNKNOWN Center/UNKNOWN 123/CD Main/UNKNOWN Street/UNKNOWN Anywhere/UNKNOWN ,/, USA/UNKNOWN 01234/CD Phone/UNKNOWN 123/CD ./. 456/CD ./. 7890/CD Fax/UNKNOWN 123/CD ./. 456/CD ./. 7890/CD PATIENT/UNKNOWN :/: JOHN/UNKNOWN SMITH/UNKNOWN DOB/UNKNOWN :/: 5/CD /// 5/CD /// 1955/CD FILE/UNKNOWN #/# :/: 12345/CD PHYSICIAN/UNKNOWN :/: REFERRING/UNKNOWN EXAM/UNKNOWN :/: MRI/UNKNOWN BRAIN/UNKNOWN WITH/UNKNOWN AND/UNKNOWN WITHOUT/UNKNOWN CONTRAST/UNKNOWN DATE/UNKNOWN :/: 1/CD /// 1/CD /// 2011/CD 
+
+======================================
+
+[ CLINICAL/NP INFORMATION/NP Right/NP arm/NN weakness/NN ]
+./. 
+
+[ Difficulty/NN ]
+expressing/VBG 
+[ thoughts/NNS ]
+in/IN 
+[ writing/NN beginning/NN ]
+about/UNKNOWN 4/CD -/- 
+[ 5/CD months/NNS ]
+ago/RB ./. 
+
+[ COMPARISON/NP No/NP comparison/NN ]
+./. 
+
+CONTRAST/UNKNOWN 16/CD cc/NN of/IN 
+[ MultiHance/NP ]
+administered/UNKNOWN without/IN 
+[ complication/NN ]
+./. 
+
+[ TECHNIQUE/NP Sagittal/NP ]
+and/CC 
+[ axial/JJ T/NP ]
+[ 1/CD ]
+-/- weighted/JJ images/NNS ,/, axial/JJ FLAIR/NP images/NNS ,/, 
+[ axial/JJ diffusion/NN ]
+weighted/VBD 
+[ sequences/NNS ]
+,/, 
+[ axial/JJ T/NP ]
+[ 2/CD ]
+-/- weighted/JJ images/NNS and/CC coronal/NN gradient/NN echo/NN sequences/NNS of/IN 
+[ the/DT brain/NN ]
+were/VBD obtained/VBN ./. 
+
+[ Following/JJ gadolinium/NN administration/NN ]
+axial/JJ and/CC 
+[ coronal/NN T/NP ]
+[ 1/CD ]
+-/- 
+[ weighted/JJ images/NNS ]
+were/VBD obtained/VBN ./. 
+
+[ FINDINGS/NP Evaluation/NP ]
+of/IN 
+[ the/DT brain/NN ]
+demonstrates/VBZ 
+[ a/DT prominent/JJ bilobed/JJ right/NN ]
+and/CC especially/RB left-sided/JJ paramedial/NN extra-axial/JJ mass/JJ centered/JJ overlying/VBG 
+[ the/DT posterior/JJ frontal/NN ]
+and/CC 
+[ anterior/JJ parietal/JJ lobes/NNS ]
+./. 
+
+[ The/DT mass/NN ]
+demonstrates/VBZ 
+[ heterogeneous/JJ signal/NN ]
+but/CC 
+[ homogeneous/JJ enhancement/NN ]
+with/IN mildly/RB irregular/JJ but/CC 
+[ smooth/JJ contours/NNS ]
+./. 
+
+The/DT mass/JJ measures/NNS approximately/UNKNOWN 5/CD ./. 
+
+[ 8/CD ]
+x/UNKNOWN 58/CD 
+[ x/NN 4.2  CM/NN ]
+(/( anterior/NN posterior/NN by/IN 
+[ transverse/JJ ]
+by/IN 
+[ superior-inferior/NN ]
+)/) ./. 
+
+[ The/DT mass/NN ]
+encases/VBZ 
+[ the/DT falx/NN ]
+and/CC 
+[ the/DT adjacent/JJ superior/JJ sagittal/JJ sinus/NN ]
+with/IN 
+[ evidence/NN ]
+of/IN 
+[ marginal/JJ dural/JJ thickening/NN ]
+,/, especially/RB extending/VBG posteriorly/RB in/IN 
+[ the/DT midline/NN ]
+splaying/VBG 
+[ the/DT upper/JJ leaves/NNS ]
+of/IN 
+[ the/DT falx/NN ]
+through/IN 
+[ the/DT level/NN ]
+of/IN 
+[ the/DT upper/JJ occipital/JJ lobe/NN ]
+./. 
+
+[ Prominent/JJ reactive/JJ changes/NNS ]
+noted/UNKNOWN involving/VBG 
+[ the/DT periventricular/NN ]
+and/CC 
+[ subcortical/JJ white/NN matter/NN ]
+of/IN 
+[ the/DT left/JJ frontal/NN ]
+and/CC 
+[ parietal/JJ lobes/NNS ]
+with/IN a/DT small/JJ amount/NN also/RB involving/VBG 
+[ the/DT right/JJ posterior/JJ frontal/JJ lobe/NN ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ adjacent/JJ mass/JJ effect/NN ]
+without/IN 
+[ significant/JJ lateral/JJ shift/NN ]
+and/CC 
+[ no/DT herniation/NN ]
+./. 
+
+[ A/DT smaller/JJ ]
+enhancing/VBG 
+[ extra-axial/JJ mass/NN ]
+more/RBR suggestive/JJ of/IN 
+[ atypical/JJ meningioma/NN ]
+is/VBZ seen/VBN overlying/JJ 
+[ the/DT right/NN ]
+mid/IN 
+[ temporal/JJ lobe/NN ]
+measuring/UNKNOWN 1/CD ./. 
+
+[ 3/CD x/NN 0.6  CM/NN ]
+./. (/( 
+
+Axial/JJ series/UNKNOWN 12/CD image/UNKNOWN 26/CD )/) ./. 
+
+[ There/EX ]
+is/VBZ 
+[ no/DT significant/JJ end/NN vessel/NN ]
+[ ischemic/JJ small/JJ vessel/NN disease/NN ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ no/DT acute/JJ infarct/NN seen/NN ]
+./. 
+
+[ No/DT intracranial/JJ hemorrhage/NN ]
+is/VBZ recognized/VBN ./. 
+
+[ There/EX ]
+is/VBZ 
+[ no/DT parenchymal/JJ mass/NN ]
+or/CC mass/NN effect/NN ./. 
+
+[ A/DT developmental/JJ venous/JJ anomaly/NN ]
+is/VBZ suggested/VBN within/IN 
+[ the/DT left/JJ parietal/JJ lobe/NN ]
+./. 
+
+[ The/DT ventricles/NNS ]
+,/, 
+[ sulci/NN ]
+and/CC 
+[ basal/JJ cisterns/NNS ]
+appear/VBP unremarkable/JJ ./. 
+
+The/DT vertebral/JJ and/CC 
+[ internal/JJ carotid/JJ arteries/NNS ]
+demonstrate/VBP 
+[ expected/VBN flow/NN voids/NNS ]
+indicating/VBG 
+[ their/PP$ patency/NN ]
+./. 
+
+[ The/DT central/JJ skull/NN base/NN ]
+and/CC 
+[ temporal/JJ bones/NNS ]
+are/VBP intact/JJ ./. 
+
+[ The/DT calvarium/NN ]
+appears/VBZ unremarkable/JJ ./. 
+
+[ The/DT orbits/NNS ]
+are/VBP unremarkable/JJ ./. 
+
+[ The/DT paranasal/NN sinuses/NNS ]
+demonstrate/VBP 
+[ mucosal/JJ thickening/NN ]
+partially/RB 
+[ outlining/VBG anterior/NN ]
+and/CC 
+[ posterior/JJ ethmoid/NN ]
+air/VBP cells/NNS and/CC 
+[ the/DT right/JJ and/CC left/JJ antrum/NN ]
+with/IN 
+[ a/DT hyperplastic/JJ polypoid/NN component/NN ]
+along/IN 
+[ the/DT floor/NN ]
+./. 
+
+[ No/DT air-fluid/JJ levels/NNS ]
+are/VBP noted/VBN ./. 
+
+[ The/DT nasal/JJ cavity/NN ]
+appears/VBZ unremarkable/JJ ./. 
+
+[ The/DT nasopharynx/NN ]
+is/VBZ symmetric/JJ ./. 
+
+IMPRESSION/UNKNOWN 1/CD ./. 
+
+Prominent/JJ bilobed/JJ paramedial/NN extra-axial/JJ 
+[ mass/NN ]
+along/IN 
+[ the/DT convexity/NN ]
+centered/VBD at/IN 
+[ the/DT level/NN ]
+of/IN 
+[ the/DT posterior/JJ frontal/NN ]
+and/CC 
+[ anterior/JJ parietal/JJ lobes/NNS ]
+with/IN 
+[ prominent/JJ posterior/JJ dural/JJ tail/NN ]
+and/CC 
+[ occlusion/NN ]
+of/IN 
+[ the/DT adjacent/JJ superior/JJ sagittal/JJ sinus/NN ]
+./. 
+
+[ Prominent/JJ surrounding/JJ reactive/JJ edema/NN ]
+,/, left/UNKNOWN greater/JJ than/IN right/VBP ./. 
+
+[ Mild/JJ lateral/JJ shift/NN ]
+but/CC 
+[ no/DT herniation/NN ]
+./. 
+
+Smaller/JJ extraaxial/NN mass/NN overlying/UNKNOWN 
+[ the/DT right/NN ]
+mid/IN 
+[ temporal/JJ lobe/NN ]
+./. 
+
+2/CD ./. 
+
+[ Atypical/JJ meningioma/NN ]
+including/VBG 
+[ hemangiopericytoma/NN ]
+or/CC 
+[ variant/NN ]
+or/CC 
+[ malignant/JJ subsidence/NN ]
+of/IN 
+[ meningioma/NN ]
+./. 
+
+[ Other/JJ less/RBR likely/JJ considerations/NNS ]
+include/VBP 
+[ extra-axial/JJ dural/JJ based/JJ metastasis/NN ]
+,/, 
+[ lymphoma/NN ]
+and/CC less/RBR 
+[ likely/JJ solitary/JJ fibrous/JJ tumor/NN ]
+./. 
+
+3/CD ./. 
+
+Discussed/UNKNOWN with/IN 
+[ Dr./NP REFERRING/NP ]
+at/UNKNOWN 1630/CD hrs/NNS ./. [/[ 
+
+[ NationalRad/NP Neuroradiologist/NP ]
+]/] 
+[ Board/NP Certified/NP Radiologist/NP THIS/NP REPORT/NP WAS/NP ELECTRONICALLY/NP SIGNED/NP ]

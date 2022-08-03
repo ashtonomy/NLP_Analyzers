@@ -1,0 +1,380 @@
+PART   SEM          STEM          NE_TEXT       ALL_TEXT
+========================================================
+
+sentence: CLINICAL INFORMATION Right arm weakness
+
+clause: CLINICAL INFORMATION Right arm weakness
+voice:	nil
+np  	weakness	weakness	nil         	CLINICAL INFORMATION Right arm weakness
+
+sentence: Difficulty expressing thoughts in writing beginning about 4-5 months ago
+
+clause: Difficulty expressing thoughts in writing beginning about 4-5 months ago
+voice:	active
+
+sentence: COMPARISON No comparison
+
+clause: COMPARISON No comparison
+voice:	nil
+np  	comparison	comparison	nil         	COMPARISON No comparison
+
+sentence: CONTRAST 16 cc of MultiHance administered without complication
+
+clause: CONTRAST 16 cc of MultiHance administered without complication
+voice:	AMBIG
+
+sentence: TECHNIQUE Sagittal and axial T1-weighted images, axial FLAIR images, axial diffusion weighted sequences, axial T2- weighted images and coronal gradient echo sequences of the brain were obtained
+
+clause: TECHNIQUE Sagittal
+voice:	nil
+np  	nil     	nil     	nil         	TECHNIQUE Sagittal
+
+clause: axial T1-weighted images
+voice:	nil
+
+clause: axial FLAIR images
+voice:	nil
+
+clause: axial diffusion weighted sequences
+voice:	active
+np  	diffusion	diffusion	nil         	axial diffusion
+vg  	weight  	weight  	nil         	weighted
+np  	sequence	sequence	nil         	sequences
+
+clause: axial T2- weighted images
+voice:	nil
+
+clause: coronal gradient echo sequences of the brain were obtained
+voice:	passive
+
+sentence: Following gadolinium administration axial and coronal T1-weighted images were obtained
+
+clause: Following gadolinium administration axial
+voice:	nil
+
+clause: coronal T1-weighted images were obtained
+voice:	passive
+
+sentence: FINDINGS Evaluation of the brain demonstrates a prominent bilobed right and especially left-sided paramedial extra-axial mass centered overlying the posterior frontal and anterior parietal lobes
+
+clause: FINDINGS Evaluation of the brain demonstrates a prominent bilobed right
+voice:	active
+np  	brain   	brain   	nil         	FINDINGS Evaluation of the brain
+vg  	demonstrate	demonstrate	nil         	demonstrates
+np  	right   	right   	nil         	a prominent bilobed right
+
+clause: especially left-sided paramedial extra-axial mass centered overlying the posterior frontal and anterior parietal lobes
+voice:	active
+
+sentence: The mass demonstrates heterogeneous signal but homogeneous enhancement with mildly irregular but smooth contours
+
+clause: The mass demonstrates heterogeneous signal
+voice:	active
+np  	mass    	mass    	nil         	The mass
+vg  	demonstrate	demonstrate	nil         	demonstrates
+np  	signal  	signal  	nil         	heterogeneous signal
+
+clause: homogeneous enhancement with mildly irregular
+voice:	nil
+
+clause: smooth contours
+voice:	nil
+np  	contour 	contour 	nil         	smooth contours
+
+sentence: The mass measures approximately 5
+
+clause: The mass measures approximately 5
+voice:	nil
+np  	nil     	nil     	nil         	The mass measures
+mumble	nil     	nil     	nil         	approximately 5
+
+sentence: 8 x 58 x 4.2 CM (anterior posterior by transverse by superior-inferior)
+
+clause: 8 x 58 x 4.2 CM (anterior posterior by transverse by superior-inferior)
+voice:	passive
+
+sentence: The mass encases the falx and the adjacent superior sagittal sinus with evidence of marginal dural thickening, especially extending posteriorly in the midline splaying the upper leaves of the falx through the level of the upper occipital lobe
+
+clause: The mass encases the falx
+voice:	active
+np  	mass    	mass    	nil         	The mass
+vg  	encase  	encase  	nil         	encases
+np  	falx    	falx    	nil         	the falx
+
+clause: the adjacent superior sagittal sinus with evidence of marginal dural thickening
+voice:	nil
+np  	sinus   	sinus   	nil         	the adjacent superior sagittal sinus
+advl	thicken 	thicken 	nil         	with evidence of marginal dural thickening
+
+clause: especially extending
+voice:	active
+
+clause: posteriorly in the midline splaying the upper leaves of the falx through the level of the upper occipital lobe
+voice:	active
+
+sentence: Prominent reactive changes noted involving the periventricular and subcortical white matter of the left frontal and Page 2 of 2 Report approved on NationalRad | Headquartered: Florida | Diagnostic Imaging Services: Nationwide | 877.734.6674 | www.NationalRad.com parietal lobes with a small amount also involving the right posterior frontal lobe
+
+clause: Prominent reactive changes
+voice:	nil
+np  	change  	change  	nil         	Prominent reactive changes
+
+clause: noted
+voice:	AMBIG
+vg  	note    	note    	nil         	noted
+
+clause: involving the periventricular
+voice:	active
+vg  	involve 	involve 	nil         	involving
+np  	nil     	nil     	nil         	the periventricular
+
+clause: subcortical white matter of the left frontal and Page 2 of 2 Report approved on NationalRad | Headquartered: Florida | Diagnostic Imaging Services: Nationwide | 877.734.6674 | www.NationalRad.com parietal lobes with a small amount also involving the right posterior frontal lobe
+voice:	active
+
+sentence: There is adjacent mass effect without significant lateral shift and no herniation
+
+clause: There is adjacent mass effect without significant lateral shift and no herniation
+voice:	active
+np  	there   	there   	nil         	There
+vg  	be      	be      	nil         	is
+np  	effect  	effect  	nil         	adjacent mass effect
+advl	nil     	nil     	nil         	without significant lateral shift and no herniation
+
+sentence: A smaller enhancing extra-axial mass more suggestive of atypical meningioma is seen overlying the right mid temporal lobe measuring 1
+
+clause: A smaller enhancing extra-axial mass more suggestive of atypical meningioma
+voice:	active
+
+clause: is seen overlying the right mid temporal lobe measuring 1
+voice:	passive
+vg  	see     	see     	nil         	is seen
+np  	overly  	overly  	nil         	overlying
+np  	right   	right   	nil         	the right
+advl	lobe    	lobe    	nil         	mid temporal lobe
+mumble	nil     	nil     	nil         	measuring 1
+
+sentence: 3 x 0.6 CM
+
+clause: 3 x 0.6 CM
+voice:	nil
+np  	nil     	nil     	nil         	3 x 0.6 CM
+
+sentence: Axial series 12 image 26)
+
+clause: Axial series 12 image 26)
+voice:	nil
+
+sentence: There is no significant end vessel ischemic small vessel disease
+
+clause: There is no significant end vessel ischemic small vessel disease
+voice:	active
+np  	there   	there   	nil         	There
+vg  	be      	be      	nil         	is
+np  	vessel  	vessel  	nil         	no significant end vessel
+np  	disease 	disease 	nil         	ischemic small vessel disease
+
+sentence: There is no acute infarct seen
+
+clause: There is no acute infarct seen
+voice:	active
+np  	there   	there   	nil         	There
+vg  	be      	be      	nil         	is
+np  	see     	see     	nil         	no acute infarct seen
+
+sentence: No intracranial hemorrhage is recognized
+
+clause: No intracranial hemorrhage is recognized
+voice:	passive
+np  	hemorrhage	hemorrhage	nil         	No intracranial hemorrhage
+vg  	recognize	recognize	nil         	is recognized
+
+sentence: There is no parenchymal mass or mass effect
+
+clause: There is no parenchymal mass
+voice:	active
+np  	there   	there   	nil         	There
+vg  	be      	be      	nil         	is
+np  	mass    	mass    	nil         	no parenchymal mass
+
+clause: mass effect
+voice:	nil
+np  	nil     	nil     	nil         	mass effect
+
+sentence: A developmental venous anomaly is suggested within the left parietal lobe
+
+clause: A developmental venous anomaly is suggested within the left parietal lobe
+voice:	passive
+np  	anomaly 	anomaly 	nil         	A developmental venous anomaly
+vg  	suggest 	suggest 	nil         	is suggested
+advl	lobe    	lobe    	nil         	within the left parietal lobe
+
+sentence: The ventricles, sulci and basal cisterns appear unremarkable
+
+clause: The ventricles
+voice:	nil
+np  	ventricle	ventricle	nil         	The ventricles
+
+clause: sulci
+voice:	nil
+np  	sulci   	sulci   	nil         	sulci
+
+clause: basal cisterns appear unremarkable
+voice:	active
+np  	cistern 	cistern 	nil         	basal cisterns
+vg  	appear  	appear  	nil         	appear
+adjc	unremarkable	unremarkable	nil         	unremarkable
+
+sentence: The vertebral and internal carotid arteries demonstrate expected flow voids indicating their patency
+
+clause: The vertebral and internal carotid arteries demonstrate
+voice:	active
+np  	nil     	nil     	nil         	The vertebral and internal carotid arteries
+vg  	demonstrate	demonstrate	nil         	demonstrate
+
+clause: expected flow voids indicating their patency
+voice:	active
+np  	void    	void    	nil         	expected flow voids
+vg  	indicate	indicate	nil         	indicating
+np  	patency 	patency 	nil         	their patency
+
+sentence: The central skull base and temporal bones are intact
+
+clause: The central skull base and temporal bones are intact
+voice:	active
+np  	nil     	nil     	nil         	The central skull base and temporal bones
+vg  	be      	be      	nil         	are
+adjc	intact  	intact  	nil         	intact
+
+sentence: The calvarium appears unremarkable
+
+clause: The calvarium appears unremarkable
+voice:	active
+np  	calvarium	calvarium	nil         	The calvarium
+vg  	appear  	appear  	nil         	appears
+adjc	unremarkable	unremarkable	nil         	unremarkable
+
+sentence: The orbits are unremarkable
+
+clause: The orbits are unremarkable
+voice:	active
+np  	orbit   	orbit   	nil         	The orbits
+vg  	be      	be      	nil         	are
+adjc	unremarkable	unremarkable	nil         	unremarkable
+
+sentence: The paranasal sinuses demonstrate mucosal thickening partially outlining anterior and posterior ethmoid air cells and the right and left antrum with a hyperplastic polypoid component along the floor
+
+clause: The paranasal sinuses demonstrate mucosal thickening partially outlining anterior
+voice:	active
+
+clause: posterior ethmoid air cells
+voice:	active
+
+clause: the right and left antrum with a hyperplastic polypoid component along the floor
+voice:	nil
+np  	antrum  	antrum  	nil         	the right and left antrum
+advl	nil     	nil     	nil         	with a hyperplastic polypoid component
+advl	floor   	floor   	nil         	along the floor
+
+sentence: No air-fluid levels are noted
+
+clause: No air-fluid levels are noted
+voice:	passive
+np  	level   	level   	nil         	No air-fluid levels
+vg  	note    	note    	nil         	are noted
+
+sentence: The nasal cavity appears unremarkable
+
+clause: The nasal cavity appears unremarkable
+voice:	active
+np  	cavity  	cavity  	nil         	The nasal cavity
+vg  	appear  	appear  	nil         	appears
+adjc	unremarkable	unremarkable	nil         	unremarkable
+
+sentence: The nasopharynx is symmetric
+
+clause: The nasopharynx is symmetric
+voice:	active
+np  	nasopharynx	nasopharynx	nil         	The nasopharynx
+vg  	be      	be      	nil         	is
+adjc	symmetric	symmetric	nil         	symmetric
+
+sentence: IMPRESSION 1
+
+clause: IMPRESSION 1
+voice:	nil
+mumble	nil     	nil     	nil         	IMPRESSION 1
+
+sentence: Prominent bilobed paramedial extra-axial mass along the convexity centered at the level of the posterior frontal and anterior parietal lobes with prominent posterior dural tail and occlusion of the adjacent superior sagittal sinus
+
+clause: Prominent bilobed paramedial extra-axial mass along the convexity centered at the level of the posterior frontal and anterior parietal lobes with prominent posterior dural tail and occlusion of the adjacent superior sagittal sinus
+voice:	active
+
+sentence: Prominent surrounding reactive edema, left greater than right
+
+clause: Prominent surrounding reactive edema
+voice:	nil
+np  	edema   	edema   	nil         	Prominent surrounding reactive edema
+
+clause: left greater
+voice:	active
+
+clause: right
+voice:	passive
+vg  	right   	right   	nil         	right
+
+sentence: Mild lateral shift but no herniation
+
+clause: Mild lateral shift
+voice:	nil
+np  	shift   	shift   	nil         	Mild lateral shift
+
+clause: no herniation
+voice:	nil
+np  	herniation	herniation	nil         	no herniation
+
+sentence: Smaller extraaxial mass overlying the right mid temporal lobe
+
+clause: Smaller extraaxial mass overlying the right mid temporal lobe
+voice:	nil
+
+sentence: 2
+
+clause: 2
+voice:	nil
+
+sentence: Atypical meningioma including hemangiopericytoma or variant or malignant subsidence of meningioma
+
+clause: Atypical meningioma including hemangiopericytoma
+voice:	nil
+np  	meningioma	meningioma	nil         	Atypical meningioma
+advl	nil     	nil     	nil         	including hemangiopericytoma
+
+clause: variant
+voice:	nil
+np  	variant 	variant 	nil         	variant
+
+clause: malignant subsidence of meningioma
+voice:	nil
+np  	meningioma	meningioma	nil         	malignant subsidence of meningioma
+
+sentence: Other less likely considerations include extra-axial dural based metastasis, lymphoma and less likely solitary fibrous tumor
+
+clause: Other less likely considerations include extra-axial dural based metastasis, lymphoma and less likely solitary fibrous tumor
+voice:	active
+np  	consideration	consideration	nil         	Other less likely considerations
+vg  	include 	include 	nil         	include
+np  	tumor   	tumor   	nil         	extra-axial dural based metastasis, lymphoma and less likely solitary fibrous tumor
+
+sentence: 3
+
+clause: 3
+voice:	nil
+
+sentence: Discussed with Dr. REFERRING at 1630 hrs
+
+clause: Discussed with Dr. REFERRING at 1630 hrs
+voice:	AMBIG
+
+sentence: NationalRad Neuroradiologist] Board Certified Radiologist THIS REPORT WAS ELECTRONICALLY SIGNED
+
+clause: NationalRad Neuroradiologist] Board Certified Radiologist THIS REPORT WAS ELECTRONICALLY SIGNED
+voice:	nil
