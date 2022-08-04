@@ -1,0 +1,20 @@
+###############################################
+# FILE: removeHeaderZoneBlankSpace
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 9:25:16
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone
+
+@POST
+    excise(1,1);
+    noop();
+
+@RULES
+
+_xNIL <-
+    _xBLANK [s] ### (1)
+    @@
+

@@ -34,7 +34,7 @@ _xNIL <-
 	_xWILD							### (4)
 	com								### (5)
 	_xWILD [one matches=(\r \n)]	### (6)
-@@
+	@@
 
 @POST
 	excise(1,5);
@@ -47,4 +47,47 @@ _xNIL <-
 	of								### (3)
 	_xWILD							### (4)
 	_xWILD [one matches=(\r \n)]	### (5)
-@@
+	@@
+
+@POST
+	excise(1,6);
+	noop();
+
+@RULES
+_xNIL <-	
+	_xPUNCT							### (1)
+	NationalRad						### (2)
+	_xWHITE							### (3)
+	Neuroradiologist				### (4)
+	_xPUNCT							### (5)
+	_xWILD [one matches=(\r \n)]	### (6)
+	@@
+
+@POST
+	excise(1,6);
+	noop();
+
+@RULES
+_xNIL <-
+	Board							### (1)
+	_xWHITE							### (2)
+	Certified						### (3)
+	_xWHITE							### (4)
+	Radiologist						### (5)
+	_xWILD [one matches=(\r \n)]	### (6)
+	@@
+
+@POST
+	excise(1,6);
+	noop();
+
+@RULES
+_xNIL <-	
+	THIS	### (1)
+	_xBLANK	### (2)
+	REPORT	### (3)
+	_xWILD	### (4)
+	SIGNED	### (5)
+	_xEND	### (6)
+	@@
+

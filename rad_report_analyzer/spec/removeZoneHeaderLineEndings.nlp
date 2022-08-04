@@ -1,0 +1,19 @@
+###############################################
+# FILE: removeZoneHeaderLineEndings
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 12:56:11
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _zoneHeader
+
+@POST
+    excise(1,1);
+    noop();
+
+@RULES
+
+_xNIL <-
+    _xWHITE [s] ### (1)
+    @@

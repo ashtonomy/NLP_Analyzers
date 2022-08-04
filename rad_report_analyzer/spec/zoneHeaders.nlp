@@ -1,0 +1,21 @@
+###############################################
+# FILE: zoneHeader
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 11:53:49
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@PRE
+<1,1> uppercase();
+
+@POST
+S("header") = N("$text", 1) + N("$treetext", 2);
+single();
+
+@RULES
+_zoneHeader <-
+	_xALPHA [plus fails=(REFERRING CM MM _xCAPLET)]	### (1)
+	@@

@@ -3,10 +3,13 @@ nlp	removeFooters	# comment
 nlp	header	# comment
 nlp	identifier	# comment
 nlp	decimals	# comment
-/nlp	headerZone	# comment
+nlp	removeBlankSpace	# comment
+nlp	zoneHeader	# comment
 nlp	RemoveWhiteSpace	# comment
 nlp	removeHeaderWhiteSpace	# comment
 nlp	removeIdentifierWhiteSpace	# comment
+nlp	removeZoneHeaderLineEndings	# comment
+rec	headerZone	# comment
 nlp	doc	# comment
 nlp	funs	# comment
 nlp	KBFuncs	# comment

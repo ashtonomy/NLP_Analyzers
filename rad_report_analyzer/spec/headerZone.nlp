@@ -8,7 +8,12 @@
 
 @NODES _ROOT
 
+@POST
+S("header") = N("header", 1);
+single();
+
 @RULES
 _headerZone <-
-	_xNIL	### (1)
+	_zoneHeader								### (1)
+	_xWILD [fail=(_zoneHeader _xEND)]	### (2)
 	@@
