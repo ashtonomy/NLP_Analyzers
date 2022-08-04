@@ -1,0 +1,5 @@
+
+# Automatically gen'd rule file.
+@PATH _ROOT _TEXTZONE _sent
+
+@RULES

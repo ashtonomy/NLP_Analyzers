@@ -1,0 +1,6 @@
+
+[PASS sentsem: Register sentences in KB.]
+
+
+[PASS clausesem: Register clauses in KB.]
+

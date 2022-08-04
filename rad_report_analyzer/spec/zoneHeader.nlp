@@ -9,14 +9,15 @@
 @NODES _ROOT
 
 @PRE
-<1,1> uppercase();
+<2,2> uppercase();
 
 @POST
-S("header") = N("$text", 1) + " " + N("$text", 2);
-single();
+S("header") = N("$text", 2);
+singler(2,3);
 
 @RULES
 _zoneHeader <-
-	_xALPHA [plus]					### (1)
-	_xWILD [one matches=(\n \r)]	### (2)
+	_xWILD [one matches=(\n \r _header)]	### (1)
+	_xALPHA [plus]						### (2)
+	_xWILD [one matches=(\n \r)]		### (3)
 	@@
