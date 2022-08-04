@@ -1,0 +1,8 @@
+Sequence file is:
+tokenize
+NOHASH rule: _labelEntry [] [] <- _xWILD [0,0 fails=(
+ )] [] _xWILD [1,1 matches=(
+  _xEND)] [] @@
+
+Passes: (tok,nil) (nlp,KBFuncs) (nlp,removeObsoleteLabels) (nlp,labelEntry) 
+

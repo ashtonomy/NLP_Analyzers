@@ -1,0 +1,19 @@
+###############################################
+# FILE: labelEntry
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 14:55:45
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+S("label") = N("$text", 1);
+single();
+
+@RULES
+_labelEntry <-
+	_xWILD [fails=(\n \r)]				### (1)
+	_xWILD [one match=(\n \r _xEND)]	### (2)
+	@@
