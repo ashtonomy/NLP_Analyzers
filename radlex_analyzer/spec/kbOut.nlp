@@ -1,0 +1,13 @@
+###############################################
+# FILE: kbOut
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 15:25:33
+# MODIFIED:
+###############################################
+
+@CODE
+
+DisplayKB(G("labels"), 1);
+
+@@CODE

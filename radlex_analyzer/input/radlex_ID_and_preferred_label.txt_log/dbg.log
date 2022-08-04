@@ -1,0 +1,14 @@
+[Pass 1 time: 8.429 sec     tokenize]
+[Pass 2 time: 0.001 sec     KBFuncs]
+[Pass 3 time: 0 sec     initKB]
+[Pass 4 time: 8.648 sec     removeObsoleteLabels]
+[Pass 5 time: 10.093 sec     labelEntry]
+[Pass 6 time: 0.001 sec     kbOut]
+[Input file: c:\Users\tasht\Documents\Clemson\npl_project\npl_plus_plus\radlex_analyzer\input\radlex_ID_and_preferred_label.txt]
+[Total passes: 6
+[Total time: 27.173 sec]
+[Time per 1000 chars (27.173/3.35455e+06): 0.00810033 sec]
+[Time per pass per 1000 chars: 0.00135006]
+infile  passes tottime length tot/1000 tot/pass/1000
+c:\Users\tasht\Documents\Clemson\npl_project\npl_plus_plus\radlex_analyzer\input\radlex_ID_and_preferred_label.txt	6	27.173	3.35455e+06	0.00810033	0.00135006
+[Clean time: 0.021 sec]

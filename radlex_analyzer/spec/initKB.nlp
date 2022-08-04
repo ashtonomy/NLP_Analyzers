@@ -1,0 +1,15 @@
+###############################################
+# FILE: initKB
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 15:19:12
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("labels") = findconcept(findroot(),"labels");
+if (!G("labels")) G("labels") = makeconcept(findroot(),"labels");
+rmchildren(G("labels"));
+
+@@CODE

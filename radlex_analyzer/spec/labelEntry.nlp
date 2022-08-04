@@ -9,11 +9,20 @@
 @NODES _ROOT
 
 @POST
-S("label") = N("$text", 1);
+S("label") = makeconcept(G("labels"), N("$text", 7));
+addnumval(S("label"), "RID", num(N("$text", 5)));
+#S("RID") = num(N("$text", 5));
+#S("label") = N("$text", 7);
 single();
 
 @RULES
 _labelEntry <-
-	_xWILD [fails=(\n \r)]				### (1)
-	_xWILD [one match=(\n \r _xEND)]	### (2)
+	http								### (1)
+	_xWILD [plus fails=(\#)]			### (2)
+	\#									### (3)
+	RID									### (4)
+	_xNUM								### (5)
+	_xBLANK								### (6)
+	_xWILD [fails=(\n \r)]				### (7)
+	_xWILD [one match=(\n \r _xEND)]	### (8)
 	@@

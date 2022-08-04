@@ -1,0 +1,502 @@
+labels
+  multiple lesions 2-5: 
+    RID=[43314]
+  neutral position: 
+    RID=[10450]
+  Brodmann area 13: 
+    RID=[7074]
+  trunk of cutaneous branch of medial plantar nerve: 
+    RID=[22456]
+  Brodmann area 22: 
+    RID=[7019]
+  Latin: 
+    RID=[13177]
+  segment of medial pectoral nerve nucleus of ventral column: 
+    RID=[46515]
+  nerve to left gluteus maximus (2): 
+    RID=[19242]
+  longitudinal muscle layer of segment of esophagus: 
+    RID=[30889]
+  carcinoma in situ: 
+    RID=[4265]
+  accessory atlantoaxial ligament: 
+    RID=[7844]
+  medial part of tendon of left quadriceps femoris: 
+    RID=[48560]
+  infratemporal fossa of maxilla: 
+    RID=[9248]
+  gray matter of left side of culmen of anterior lobe of cerebellum: 
+    RID=[20022]
+  zone of flat bone: 
+    RID=[34529]
+  descending branch of meningeal branch of right fifth sacral nerve: 
+    RID=[25174]
+  anterior root of left fourth sacral nerve: 
+    RID=[18700]
+  c5 dorsal column nucleus of right superior subscapular nerve: 
+    RID=[46459]
+  gluteal lymph node group: 
+    RID=[32028]
+  white matter of subdivision of sacral segment of spinal cord: 
+    RID=[34073]
+  trunk of right common fibular nerve: 
+    RID=[22523]
+  left side of posterior lobe of cerebellum: 
+    RID=[27675]
+  multiform layer of right Brodmann area 9: 
+    RID=[36954]
+  postcentral gyrus: 
+    RID=[6494]
+  area postrema: 
+    RID=[13851]
+  foramen lacerum: 
+    RID=[9497]
+  trunk of lateral dorsal digital nerve of left little toe: 
+    RID=[22418]
+  vasculature of penis: 
+    RID=[49641]
+  rhabdoid meningioma: 
+    RID=[4123]
+  depreotide: 
+    RID=[50052]
+  meningeal branch of left fourth sacral nerve: 
+    RID=[23054]
+  temporal segment of uncinate fasciculus: 
+    RID=[34518]
+  thrombectomy: 
+    RID=[10412]
+  ventral lamella of principal inferior olivary nucleus: 
+    RID=[18566]
+  anterior: 
+    RID=[5818]
+  other modality (DICOM): 
+    RID=[49585]
+  right corticotectospinal tract: 
+    RID=[27664]
+  trunk of lateral proper plantar digital nerve of fourth toe: 
+    RID=[22512]
+  synovitis due to foreign material: 
+    RID=[3644]
+  external granular layer of right Brodmann area 34: 
+    RID=[37417]
+  carpal articular cartilage of ulnar head: 
+    RID=[2239]
+  trunk of stylohyoid branch of facial nerve: 
+    RID=[21442]
+  dorsal segment of superior longitudinal fasciculus: 
+    RID=[34084]
+  mucosa of middle part of ileum: 
+    RID=[33448]
+  ReqLabsReported: 
+    RID=[45928]
+  medullary vein: 
+    RID=[1168]
+  left fifth common plantar digital nerve: 
+    RID=[15489]
+  too little: 
+    RID=[5766]
+  posterosuperior zone of left glenoid labrum: 
+    RID=[42698]
+  muscle body of deltoid: 
+    RID=[40197]
+  Rathke cleft cyst: 
+    RID=[3935]
+  c5 root of median nerve: 
+    RID=[45445]
+  ligament of knee joint: 
+    RID=[2780]
+  distal tendon of right popliteus: 
+    RID=[48447]
+  inferior medial heel: 
+    RID=[13322]
+  medial intermuscular septum of thigh: 
+    RID=[2725]
+  parieto-occipital branch of right pericallosal artery: 
+    RID=[36441]
+  dura mater of posterior root of right second sacral nerve: 
+    RID=[28227]
+  superior root of right ansa cervicalis: 
+    RID=[21936]
+  rootlet of right twelfth thoracic nerve: 
+    RID=[19129]
+  surface of tendon of long head of right triceps brachii: 
+    RID=[42687]
+  left external jugular vein: 
+    RID=[43902]
+  proximal epiphysis of left third metatarsal bone: 
+    RID=[39775]
+  preganglionic segment of posterior root of right fifth lumbar spinal nerve: 
+    RID=[44263]
+  rootlet of left eighth thoracic nerve: 
+    RID=[19118]
+  myometrium of body of uterus: 
+    RID=[30681]
+  l2 segment of left posterior spinocerebellar tract: 
+    RID=[17979]
+  trunk of deep branch of lateral plantar nerve: 
+    RID=[22467]
+  spring ligament: 
+    RID=[3052]
+  aryepiglottic part of oblique arytenoid muscle: 
+    RID=[7650]
+  intracortical osteosarcoma: 
+    RID=[4016]
+  feeding tube placement: 
+    RID=[46070]
+  trunk of left fifth sacral nerve: 
+    RID=[21925]
+  dura mater of posterior root of fourth lumbar nerve: 
+    RID=[28216]
+  ethmoidomaxillary suture: 
+    RID=[9824]
+  posterior root of first cervical nerve: 
+    RID=[18711]
+  heterotopic ossification: 
+    RID=[5226]
+  set of parietopontine fibers: 
+    RID=[16210]
+  dorsal intermediate sulcus: 
+    RID=[7375]
+  hypertrophy of median lobe of prostate: 
+    RID=[49525]
+  proximal tendon of right rectus femoris: 
+    RID=[43870]
+  arcuate renal vein: 
+    RID=[38061]
+  left anterior orbital gyrus: 
+    RID=[13916]
+  medial head of triceps brachii muscle: 
+    RID=[2001]
+  renal tubule: 
+    RID=[31770]
+  communicating branch of left auriculotemporal nerve with left otic ganglion: 
+    RID=[14371]
+  sulcal segment of right lateral occipital lobe: 
+    RID=[33899]
+  segment of anterior root of spinal nerve: 
+    RID=[46675]
+  biopsy: 
+    RID=[38611]
+  infundibulum of left uterine tube: 
+    RID=[29276]
+  left Brodmann area 51: 
+    RID=[25913]
+  dura mater of posterior root of left fifth thoracic nerve: 
+    RID=[28184]
+  iliac fossa: 
+    RID=[2541]
+  neural network of right female breast: 
+    RID=[16634]
+  meningeal branch of left seventh cervical nerve: 
+    RID=[22985]
+  rootlet of right sixth cervical nerve: 
+    RID=[19086]
+  crypt of Lieberkuhn of jejunum: 
+    RID=[33222]
+  avulsion: 
+    RID=[4715]
+  mucosa of pyloric canal: 
+    RID=[31096]
+  internal pyramidal layer of Brodmann area 1: 
+    RID=[36798]
+  lumbosacral junction: 
+    RID=[28734]
+  subcentimeter: 
+    RID=[13433]
+  arterial branch of dural artery to spinal dura: 
+    RID=[895]
+  endocavitary annular array transducer: 
+    RID=[10874]
+  white matter of isthmus of right cingulate gyrus: 
+    RID=[17165]
+  superior anterior pancreaticoduodenal lymph node group: 
+    RID=[31978]
+  distal tendon of left flexor carpi ulnaris: 
+    RID=[41512]
+  lateral branch of posterior ramus of second thoracic nerve: 
+    RID=[24019]
+  posterior region of medial condyle of right tibia: 
+    RID=[46664]
+  atypical teratoid rhabdoid tumor: 
+    RID=[4424]
+  medial branch to medial part of internal carotid plexus: 
+    RID=[20077]
+  ampulla of right uterine tube: 
+    RID=[29265]
+  communicating branch between right lateral pectoral nerve and right medial pectoral nerve: 
+    RID=[25779]
+  meningeal branch of fourth cervical nerve: 
+    RID=[22974]
+  outer sheath of optic nerve: 
+    RID=[12013]
+  left second thoracic spinal ganglion: 
+    RID=[19760]
+  white communicating ramus of first intercostal nerve: 
+    RID=[20171]
+  humeral head of right extensor carpi ulnaris: 
+    RID=[42367]
+  tendon of right scalenus anterior: 
+    RID=[41275]
+  lumen of left intermediate major calyx: 
+    RID=[32177]
+  diaphysis of proximal phalanx of index finger: 
+    RID=[41825]
+  branch of median nerve to second lumbrical of hand: 
+    RID=[43776]
+  muscle body of gastrocnemius: 
+    RID=[48116]
+  radial nerve component of middle trunk segment of seventh cervical nerve: 
+    RID=[46977]
+  heart: 
+    RID=[1385]
+  dura mater of posterior root of right ninth thoracic nerve: 
+    RID=[28195]
+  atherectomy: 
+    RID=[10401]
+  meningeal branch of first sacral nerve: 
+    RID=[23043]
+  calcifications: 
+    RID=[34642]
+  anterior branch of lateral cutaneous branch of right subcostal nerve: 
+    RID=[25306]
+  multiple days: 
+    RID=[49574]
+  muscle layer of superior part of duodenum: 
+    RID=[31657]
+  anterior root of right first sacral nerve: 
+    RID=[18690]
+  tendon of right third interspinalis lumborum: 
+    RID=[41391]
+  short head region of muscle body of left biceps brachii: 
+    RID=[40755]
+  lateral cord segment of C5 root of left median nerve: 
+    RID=[47046]
+  internal pyramidal layer of Brodmann area 33: 
+    RID=[37406]
+  anus: 
+    RID=[164]
+  infraauricular lymph node: 
+    RID=[7702]
+  median nerve component of anterior root of right seventh cervical nerve: 
+    RID=[47140]
+  distal zone of gastrocnemius: 
+    RID=[49091]
+  bird's beak sign of colon: 
+    RID=[35040]
+  right parataenial nucleus: 
+    RID=[28443]
+  neural network of region of limb: 
+    RID=[16578]
+  set of pedal lymphatic vessels: 
+    RID=[50384]
+  belly of left subscapularis: 
+    RID=[40744]
+  OrderSupplies: 
+    RID=[45896]
+  portal-systemic shunt surgery: 
+    RID=[1597]
+  tendon of stylohyoid: 
+    RID=[41286]
+  set of intercostal arteries: 
+    RID=[49536]
+  frontal horn of lateral ventricle: 
+    RID=[7126]
+  dorsal column-medial lemniscal pathway structure: 
+    RID=[28432]
+  tendon of interspinalis thoracis: 
+    RID=[41380]
+  median nerve component of trunk of anterior division of anterior ramus of fifth cervical nerve: 
+    RID=[47035]
+  anatomic space of shoulder girdle: 
+    RID=[1961]
+  extensor digitorum brevis muscle: 
+    RID=[3162]
+  branch of right lingual nerve to right sublingual ganglion: 
+    RID=[14382]
+  pontine nucleus: 
+    RID=[6741]
+  external granular layer of Brodmann area 40: 
+    RID=[37530]
+  proximal tendon of right rhomboid minor: 
+    RID=[43881]
+  trunk of right sural nerve: 
+    RID=[22407]
+  rootlet of left first thoracic nerve: 
+    RID=[19097]
+  lymphangioleiomyomatosis: 
+    RID=[4372]
+  muscle body of right extensor hallucis longus: 
+    RID=[40442]
+  long tube insertion: 
+    RID=[49630]
+  tendon of left extensor digitorum to left middle finger: 
+    RID=[41599]
+  portion of serous fluid: 
+    RID=[29521]
+  molecular layer of cerebellar cortex: 
+    RID=[6900]
+  probably: 
+    RID=[33]
+  paraspinal: 
+    RID=[6307]
+  t3 segment of marginal zone of right dorsal gray column of spinal cord: 
+    RID=[27020]
+  muscular tributary of ventral tributary of left lumbar vein: 
+    RID=[37981]
+  vessels in rim of tumor: 
+    RID=[49685]
+  suprascapular nerve component of superior trunk segment of right fifth cervical nerve: 
+    RID=[47734]
+  superior trunk segment of right median nerve: 
+    RID=[47184]
+  aneurysm: 
+    RID=[3321]
+  Throckmorton sign: 
+    RID=[35634]
+  pectoral branch of thoraco-acromial artery: 
+    RID=[44970]
+  mandibular canal: 
+    RID=[9120]
+  brodmann area 41 of right superior temporal gyrus: 
+    RID=[26299]
+  left anterior transverse temporal gyrus: 
+    RID=[13895]
+  uranium: 
+    RID=[11944]
+  medial dorsal digital nerve of right big toe: 
+    RID=[18235]
+  set of renal columns of left kidney: 
+    RID=[30245]
+  plasmacytoma: 
+    RID=[3861]
+  spinal branch of right fourth lumbar artery: 
+    RID=[38399]
+  mucosa of sigmoid colon: 
+    RID=[29834]
+  medial longitudinal fasciculus of midbrain: 
+    RID=[19644]
+  posterior cutaneous branch of posterior ramus of lumbar nerve: 
+    RID=[24132]
+  Neuhaser sign: 
+    RID=[35397]
+  articular cartilage of fibular facet of tibia: 
+    RID=[2842]
+  trunk of lateral ampullary nerve: 
+    RID=[21573]
+  nerve to left flexor digitorum superficialis: 
+    RID=[14976]
+  occipital lobe proper: 
+    RID=[13884]
+  diaphysis of left radius: 
+    RID=[41793]
+  notch region of left scapula: 
+    RID=[40111]
+  left limitans nucleus: 
+    RID=[20937]
+  OrderCreated: 
+    RID=[45813]
+  connective tissue of serosa of liver: 
+    RID=[33579]
+  brodmann area 40 of left postcentral gyrus: 
+    RID=[26288]
+  medial proper palmar digital branch of right median nerve to right middle finger: 
+    RID=[18224]
+  neural network of bony part of fourth metatarsal bone: 
+    RID=[16783]
+  branch of posterior superior alveolar artery: 
+    RID=[35936]
+  posterior temporal branch of right middle cerebral artery: 
+    RID=[36478]
+  fiducial marker: 
+    RID=[28789]
+  moulage sign: 
+    RID=[35386]
+  rugal fold of zone of stomach: 
+    RID=[30234]
+  adventitia of subdivision of minor calyx: 
+    RID=[33371]
+  synovial fold: 
+    RID=[49987]
+  right radial recurrent artery: 
+    RID=[45139]
+  segment of medial frontal gyrus: 
+    RID=[33827]
+  oblique muscle layer of body of stomach: 
+    RID=[32735]
+  prostatic part of inferior vesical artery: 
+    RID=[39026]
+  basal surface proper of cerebral hemisphere: 
+    RID=[21271]
+  left Brodmann area 37: 
+    RID=[25881]
+  trunk of interosseous branch of lateral terminal branch of left deep fibular nerve: 
+    RID=[22567]
+  right medial mammillary nucleus: 
+    RID=[20616]
+  nerve to right nasalis: 
+    RID=[14503]
+  communicating branch between left medial common plantar digital nerve with left third common plantar digital nerve: 
+    RID=[25768]
+  left medial longitudinal fasciculus of medulla: 
+    RID=[19655]
+  gray communicating ramus to second cervical spinal nerve: 
+    RID=[20066]
+  tributary of superior thalamostriate vein: 
+    RID=[36005]
+  muscle layer of left intermediate major calyx: 
+    RID=[29408]
+  lateral head of left flexor hallucis brevis: 
+    RID=[42356]
+  dura mater of anterior rootlet of right fifth lumbar nerve: 
+    RID=[28316]
+  transplantation: 
+    RID=[1649]
+  superior laryngeal vein: 
+    RID=[1040]
+  t8 segment of right dorsal funiculus of spinal cord: 
+    RID=[17402]
+  set of vaginal nerves: 
+    RID=[16310]
+  ventral branch of lumbar artery: 
+    RID=[38506]
+  outer layer of endometrium: 
+    RID=[32851]
+  zone of fascia lata: 
+    RID=[48105]
+  set of minor renal calyces: 
+    RID=[30350]
+  middle posterior division segment of C7 root of right radial nerve: 
+    RID=[46966]
+  glandular branch of inferior thyroid artery: 
+    RID=[44857]
+  articular branch of median nerve: 
+    RID=[43765]
+  not requiring a physician: 
+    RID=[38600]
+  superficial peroneal retinaculum: 
+    RID=[3214]
+  posteromedial: 
+    RID=[39142]
+  left second lumbar vein: 
+    RID=[38050]
+  gray matter of anterior cingulate gyrus: 
+    RID=[20379]
+  adventitia: 
+    RID=[6255]
+  subgyral segment of right occipital lobe: 
+    RID=[26500]
+  laterodorsal tegmental nucleus: 
+    RID=[20740]
+  infraclavicular lymph node: 
+    RID=[28894]
+  rim sign of pelvis: 
+    RID=[35491]
+  region of investing fascia of hand: 
+    RID=[49998]
+  diaphysis of phalanx of ring finger: 
+    RID=[41844]
+  articular cartilage of acromion: 
+    RID=[1898]
+  medial head of right gastrocnemius: 
+    RID=[42345]
+

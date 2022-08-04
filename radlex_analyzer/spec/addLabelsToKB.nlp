@@ -1,0 +1,18 @@
+###############################################
+# FILE: addLabelsToKB
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 16:31:6
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+if ()
+single();
+
+@RULES
+_xNIL <-
+	_labelEntry	### (1)
+	@@

@@ -9,12 +9,15 @@
 @NODES _ROOT
 
 @POST
-excise(1,3);
+excise(1,6);
 noop();
 
 @RULES
 _xNIL <-
-	RID			### (1)
-	_xNUM		### (2)
-	\n [opt]	### (3)
+	http						### (1)
+	_xWILD [plus fails=(\t)]	### (2)
+	\t							### (3)
+	RID							### (4)
+	_xNUM						### (5)
+	\n [opt]					### (6)
 	@@

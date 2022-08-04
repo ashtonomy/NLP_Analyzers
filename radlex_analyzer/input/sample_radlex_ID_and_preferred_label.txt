@@ -1,0 +1,252 @@
+http://www.radlex.org/RID/#RID43314	multiple lesions 2-5
+http://www.radlex.org/RID/#RID10450	neutral position
+http://www.radlex.org/RID/#RID7074	Brodmann area 13
+http://www.radlex.org/RID/#RID22456	trunk of cutaneous branch of medial plantar nerve
+http://www.radlex.org/RID/#RID7019	Brodmann area 22
+http://www.radlex.org/RID/#RID13177	Latin
+http://www.radlex.org/RID/#RID46515	segment of medial pectoral nerve nucleus of ventral column
+http://www.radlex.org/RID/#RID19242	nerve to left gluteus maximus (2)
+http://www.radlex.org/RID/#RID30889	longitudinal muscle layer of segment of esophagus
+http://www.radlex.org/RID/#RID4265	carcinoma in situ
+http://www.radlex.org/RID/#RID7844	accessory atlantoaxial ligament
+http://www.radlex.org/RID/#RID48560	medial part of tendon of left quadriceps femoris
+http://www.radlex.org/RID/#RID9248	infratemporal fossa of maxilla
+http://www.radlex.org/RID/#RID20022	gray matter of left side of culmen of anterior lobe of cerebellum
+http://www.radlex.org/RID/#RID34529	zone of flat bone
+http://www.radlex.org/RID/#RID25174	descending branch of meningeal branch of right fifth sacral nerve
+http://www.radlex.org/RID/#RID18700	anterior root of left fourth sacral nerve
+http://www.radlex.org/RID/#RID46459	c5 dorsal column nucleus of right superior subscapular nerve
+http://www.radlex.org/RID/#RID32028	gluteal lymph node group
+http://www.radlex.org/RID/#RID34073	white matter of subdivision of sacral segment of spinal cord
+http://www.radlex.org/RID/#RID22523	trunk of right common fibular nerve
+http://www.radlex.org/RID/#RID27675	left side of posterior lobe of cerebellum
+http://www.radlex.org/RID/#RID36954	multiform layer of right Brodmann area 9
+http://www.radlex.org/RID/#RID6494	postcentral gyrus
+http://www.radlex.org/RID/#RID13851	area postrema
+http://www.radlex.org/RID/#RID9497	foramen lacerum
+http://www.radlex.org/RID/#RID22418	trunk of lateral dorsal digital nerve of left little toe
+http://www.radlex.org/RID/#RID49641	vasculature of penis
+http://www.radlex.org/RID/#RID4123	rhabdoid meningioma
+http://www.radlex.org/RID/#RID50052	depreotide
+http://www.radlex.org/RID/#RID23054	meningeal branch of left fourth sacral nerve
+http://www.radlex.org/RID/#RID34518	temporal segment of uncinate fasciculus
+http://www.radlex.org/RID/#RID10412	thrombectomy
+http://www.radlex.org/RID/#RID18566	ventral lamella of principal inferior olivary nucleus
+http://www.radlex.org/RID/#RID5818	anterior
+http://www.radlex.org/RID/#RID49585	other modality (DICOM)
+http://www.radlex.org/RID/#RID27664	right corticotectospinal tract
+http://www.radlex.org/RID/#RID22512	trunk of lateral proper plantar digital nerve of fourth toe
+http://www.radlex.org/RID/#RID3644	synovitis due to foreign material
+http://www.radlex.org/RID/#RID37417	external granular layer of right Brodmann area 34
+http://www.radlex.org/RID/#RID2239	carpal articular cartilage of ulnar head
+http://www.radlex.org/RID/#RID21442	trunk of stylohyoid branch of facial nerve
+http://www.radlex.org/RID/#RID34084	dorsal segment of superior longitudinal fasciculus
+http://www.radlex.org/RID/#RID33448	mucosa of middle part of ileum
+http://www.radlex.org/RID/#RID45928	ReqLabsReported
+http://www.radlex.org/RID/#RID1168	medullary vein
+http://www.radlex.org/RID/#RID15489	left fifth common plantar digital nerve
+http://www.radlex.org/RID/#RID5766	too little
+http://www.radlex.org/RID/#RID42698	posterosuperior zone of left glenoid labrum
+http://www.radlex.org/RID/#RID40197	muscle body of deltoid
+http://www.radlex.org/RID/#RID3935	Rathke cleft cyst
+http://www.radlex.org/RID/#RID45445	c5 root of median nerve
+http://www.radlex.org/RID/#RID2780	ligament of knee joint
+http://www.radlex.org/RID/#RID48447	distal tendon of right popliteus
+http://www.radlex.org/RID/#RID13322	inferior medial heel
+http://www.radlex.org/RID/#RID2725	medial intermuscular septum of thigh
+http://www.radlex.org/RID/#RID36441	parieto-occipital branch of right pericallosal artery
+http://www.radlex.org/RID/#RID28227	dura mater of posterior root of right second sacral nerve
+http://www.radlex.org/RID/#RID21936	superior root of right ansa cervicalis
+http://www.radlex.org/RID/#RID19129	rootlet of right twelfth thoracic nerve
+http://www.radlex.org/RID/#RID42687	surface of tendon of long head of right triceps brachii
+http://www.radlex.org/RID/#RID43902	left external jugular vein
+http://www.radlex.org/RID/#RID39775	proximal epiphysis of left third metatarsal bone
+http://www.radlex.org/RID/#RID44263	preganglionic segment of posterior root of right fifth lumbar spinal nerve
+http://www.radlex.org/RID/#RID19118	rootlet of left eighth thoracic nerve
+http://www.radlex.org/RID/#RID30681	myometrium of body of uterus
+http://www.radlex.org/RID/#RID17979	l2 segment of left posterior spinocerebellar tract
+http://www.radlex.org/RID/#RID22467	trunk of deep branch of lateral plantar nerve
+http://www.radlex.org/RID/#RID3052	spring ligament
+http://www.radlex.org/RID/#RID7650	aryepiglottic part of oblique arytenoid muscle
+http://www.radlex.org/RID/#RID4016	intracortical osteosarcoma
+http://www.radlex.org/RID/#RID46070	feeding tube placement
+http://www.radlex.org/RID/#RID21925	trunk of left fifth sacral nerve
+http://www.radlex.org/RID/#RID28216	dura mater of posterior root of fourth lumbar nerve
+http://www.radlex.org/RID/#RID9824	ethmoidomaxillary suture
+http://www.radlex.org/RID/#RID18711	posterior root of first cervical nerve
+http://www.radlex.org/RID/#RID5226	heterotopic ossification
+http://www.radlex.org/RID/#RID16210	set of parietopontine fibers
+http://www.radlex.org/RID/#RID7375	dorsal intermediate sulcus
+http://www.radlex.org/RID/#RID49525	hypertrophy of median lobe of prostate
+http://www.radlex.org/RID/#RID43870	proximal tendon of right rectus femoris
+http://www.radlex.org/RID/#RID38061	arcuate renal vein
+http://www.radlex.org/RID/#RID13916	left anterior orbital gyrus
+http://www.radlex.org/RID/#RID2001	medial head of triceps brachii muscle
+http://www.radlex.org/RID/#RID31770	renal tubule
+http://www.radlex.org/RID/#RID14371	communicating branch of left auriculotemporal nerve with left otic ganglion
+http://www.radlex.org/RID/#RID33899	sulcal segment of right lateral occipital lobe
+http://www.radlex.org/RID/#RID46675	segment of anterior root of spinal nerve
+http://www.radlex.org/RID/#RID38611	biopsy
+http://www.radlex.org/RID/#RID29276	infundibulum of left uterine tube
+http://www.radlex.org/RID/#RID25913	left Brodmann area 51
+http://www.radlex.org/RID/#RID28184	dura mater of posterior root of left fifth thoracic nerve
+http://www.radlex.org/RID/#RID2541	iliac fossa
+http://www.radlex.org/RID/#RID16634	neural network of right female breast
+http://www.radlex.org/RID/#RID22985	meningeal branch of left seventh cervical nerve
+http://www.radlex.org/RID/#RID19086	rootlet of right sixth cervical nerve
+http://www.radlex.org/RID/#RID33222	crypt of Lieberkuhn of jejunum
+http://www.radlex.org/RID/#RID4715	avulsion
+http://www.radlex.org/RID/#RID31096	mucosa of pyloric canal
+http://www.radlex.org/RID/#RID36798	internal pyramidal layer of Brodmann area 1
+http://www.radlex.org/RID/#RID28734	lumbosacral junction
+http://www.radlex.org/RID/#RID13433	subcentimeter
+http://www.radlex.org/RID/#RID895	arterial branch of dural artery to spinal dura
+http://www.radlex.org/RID/#RID10874	endocavitary annular array transducer
+http://www.radlex.org/RID/#RID17165	white matter of isthmus of right cingulate gyrus
+http://www.radlex.org/RID/#RID31978	superior anterior pancreaticoduodenal lymph node group
+http://www.radlex.org/RID/#RID41512	distal tendon of left flexor carpi ulnaris
+http://www.radlex.org/RID/#RID24019	lateral branch of posterior ramus of second thoracic nerve
+http://www.radlex.org/RID/#RID46664	posterior region of medial condyle of right tibia
+http://www.radlex.org/RID/#RID4424	atypical teratoid rhabdoid tumor
+http://www.radlex.org/RID/#RID14514	RID14514
+http://www.radlex.org/RID/#RID20077	medial branch to medial part of internal carotid plexus
+http://www.radlex.org/RID/#RID29265	ampulla of right uterine tube
+http://www.radlex.org/RID/#RID25779	communicating branch between right lateral pectoral nerve and right medial pectoral nerve
+http://www.radlex.org/RID/#RID22974	meningeal branch of fourth cervical nerve
+http://www.radlex.org/RID/#RID12013	outer sheath of optic nerve
+http://www.radlex.org/RID/#RID19760	left second thoracic spinal ganglion
+http://www.radlex.org/RID/#RID20171	white communicating ramus of first intercostal nerve
+http://www.radlex.org/RID/#RID42367	humeral head of right extensor carpi ulnaris
+http://www.radlex.org/RID/#RID41275	tendon of right scalenus anterior
+http://www.radlex.org/RID/#RID32177	lumen of left intermediate major calyx
+http://www.radlex.org/RID/#RID41825	diaphysis of proximal phalanx of index finger
+http://www.radlex.org/RID/#RID43776	branch of median nerve to second lumbrical of hand
+http://www.radlex.org/RID/#RID48116	muscle body of gastrocnemius
+http://www.radlex.org/RID/#RID46977	radial nerve component of middle trunk segment of seventh cervical nerve
+http://www.radlex.org/RID/#RID1385	heart
+http://www.radlex.org/RID/#RID28195	dura mater of posterior root of right ninth thoracic nerve
+http://www.radlex.org/RID/#RID10401	atherectomy
+http://www.radlex.org/RID/#RID23043	meningeal branch of first sacral nerve
+http://www.radlex.org/RID/#RID34642	calcifications
+http://www.radlex.org/RID/#RID25306	anterior branch of lateral cutaneous branch of right subcostal nerve
+http://www.radlex.org/RID/#RID49574	multiple days
+http://www.radlex.org/RID/#RID31657	muscle layer of superior part of duodenum
+http://www.radlex.org/RID/#RID18690	anterior root of right first sacral nerve
+http://www.radlex.org/RID/#RID41391	tendon of right third interspinalis lumborum
+http://www.radlex.org/RID/#RID40755	short head region of muscle body of left biceps brachii
+http://www.radlex.org/RID/#RID47046	lateral cord segment of C5 root of left median nerve
+http://www.radlex.org/RID/#RID37406	internal pyramidal layer of Brodmann area 33
+http://www.radlex.org/RID/#RID164	anus
+http://www.radlex.org/RID/#RID7702	infraauricular lymph node
+http://www.radlex.org/RID/#RID47140	median nerve component of anterior root of right seventh cervical nerve
+http://www.radlex.org/RID/#RID49091	distal zone of gastrocnemius
+http://www.radlex.org/RID/#RID35040	bird's beak sign of colon
+http://www.radlex.org/RID/#RID28443	right parataenial nucleus
+http://www.radlex.org/RID/#RID16578	neural network of region of limb
+http://www.radlex.org/RID/#RID50384	set of pedal lymphatic vessels
+http://www.radlex.org/RID/#RID40744	belly of left subscapularis
+http://www.radlex.org/RID/#RID45896	OrderSupplies
+http://www.radlex.org/RID/#RID1597	portal-systemic shunt surgery
+http://www.radlex.org/RID/#RID41286	tendon of stylohyoid
+http://www.radlex.org/RID/#RID49536	set of intercostal arteries
+http://www.radlex.org/RID/#RID7126	frontal horn of lateral ventricle
+http://www.radlex.org/RID/#RID28432	dorsal column-medial lemniscal pathway structure
+http://www.radlex.org/RID/#RID41380	tendon of interspinalis thoracis
+http://www.radlex.org/RID/#RID47035	median nerve component of trunk of anterior division of anterior ramus of fifth cervical nerve
+http://www.radlex.org/RID/#RID1961	anatomic space of shoulder girdle
+http://www.radlex.org/RID/#RID3162	extensor digitorum brevis muscle
+http://www.radlex.org/RID/#RID14382	branch of right lingual nerve to right sublingual ganglion
+http://www.radlex.org/RID/#RID6741	pontine nucleus
+http://www.radlex.org/RID/#RID37530	external granular layer of Brodmann area 40
+http://www.radlex.org/RID/#RID43881	proximal tendon of right rhomboid minor
+http://www.radlex.org/RID/#RID22407	trunk of right sural nerve
+http://www.radlex.org/RID/#RID19097	rootlet of left first thoracic nerve
+http://www.radlex.org/RID/#RID4372	lymphangioleiomyomatosis
+http://www.radlex.org/RID/#RID40442	muscle body of right extensor hallucis longus
+http://www.radlex.org/RID/#RID49630	long tube insertion
+http://www.radlex.org/RID/#RID13309	RID13309
+http://www.radlex.org/RID/#RID41599	tendon of left extensor digitorum to left middle finger
+http://www.radlex.org/RID/#RID29521	portion of serous fluid
+http://www.radlex.org/RID/#RID6900	molecular layer of cerebellar cortex
+http://www.radlex.org/RID/#RID33	probably
+http://www.radlex.org/RID/#RID6307	paraspinal
+http://www.radlex.org/RID/#RID27020	t3 segment of marginal zone of right dorsal gray column of spinal cord
+http://www.radlex.org/RID/#RID37981	muscular tributary of ventral tributary of left lumbar vein
+http://www.radlex.org/RID/#RID49685	vessels in rim of tumor
+http://www.radlex.org/RID/#RID47734	suprascapular nerve component of superior trunk segment of right fifth cervical nerve
+http://www.radlex.org/RID/#RID47184	superior trunk segment of right median nerve
+http://www.radlex.org/RID/#RID3321	aneurysm
+http://www.radlex.org/RID/#RID35634	Throckmorton sign
+http://www.radlex.org/RID/#RID44970	pectoral branch of thoraco-acromial artery
+http://www.radlex.org/RID/#RID9120	mandibular canal
+http://www.radlex.org/RID/#RID26299	brodmann area 41 of right superior temporal gyrus
+http://www.radlex.org/RID/#RID13895	left anterior transverse temporal gyrus
+http://www.radlex.org/RID/#RID11944	uranium
+http://www.radlex.org/RID/#RID18235	medial dorsal digital nerve of right big toe
+http://www.radlex.org/RID/#RID30245	set of renal columns of left kidney
+http://www.radlex.org/RID/#RID3861	plasmacytoma
+http://www.radlex.org/RID/#RID38399	spinal branch of right fourth lumbar artery
+http://www.radlex.org/RID/#RID29834	mucosa of sigmoid colon
+http://www.radlex.org/RID/#RID19644	medial longitudinal fasciculus of midbrain
+http://www.radlex.org/RID/#RID24132	posterior cutaneous branch of posterior ramus of lumbar nerve
+http://www.radlex.org/RID/#RID35397	Neuhaser sign
+http://www.radlex.org/RID/#RID2842	articular cartilage of fibular facet of tibia
+http://www.radlex.org/RID/#RID21573	trunk of lateral ampullary nerve
+http://www.radlex.org/RID/#RID14976	nerve to left flexor digitorum superficialis
+http://www.radlex.org/RID/#RID13884	occipital lobe proper
+http://www.radlex.org/RID/#RID41793	diaphysis of left radius
+http://www.radlex.org/RID/#RID40111	notch region of left scapula
+http://www.radlex.org/RID/#RID20937	left limitans nucleus
+http://www.radlex.org/RID/#RID45813	OrderCreated
+http://www.radlex.org/RID/#RID33579	connective tissue of serosa of liver
+http://www.radlex.org/RID/#RID26288	brodmann area 40 of left postcentral gyrus
+http://www.radlex.org/RID/#RID18224	medial proper palmar digital branch of right median nerve to right middle finger
+http://www.radlex.org/RID/#RID16783	neural network of bony part of fourth metatarsal bone
+http://www.radlex.org/RID/#RID35936	branch of posterior superior alveolar artery
+http://www.radlex.org/RID/#RID36478	posterior temporal branch of right middle cerebral artery
+http://www.radlex.org/RID/#RID28789	fiducial marker
+http://www.radlex.org/RID/#RID35386	moulage sign
+http://www.radlex.org/RID/#RID30234	rugal fold of zone of stomach
+http://www.radlex.org/RID/#RID33371	adventitia of subdivision of minor calyx
+http://www.radlex.org/RID/#RID49987	synovial fold
+http://www.radlex.org/RID/#RID45139	right radial recurrent artery
+http://www.radlex.org/RID/#RID33827	segment of medial frontal gyrus
+http://www.radlex.org/RID/#RID32735	oblique muscle layer of body of stomach
+http://www.radlex.org/RID/#RID39026	prostatic part of inferior vesical artery
+http://www.radlex.org/RID/#RID21271	basal surface proper of cerebral hemisphere
+http://www.radlex.org/RID/#RID25881	left Brodmann area 37
+http://www.radlex.org/RID/#RID22567	trunk of interosseous branch of lateral terminal branch of left deep fibular nerve
+http://www.radlex.org/RID/#RID20616	right medial mammillary nucleus
+http://www.radlex.org/RID/#RID14503	nerve to right nasalis
+http://www.radlex.org/RID/#RID25768	communicating branch between left medial common plantar digital nerve with left third common plantar digital nerve
+http://www.radlex.org/RID/#RID19655	left medial longitudinal fasciculus of medulla
+http://www.radlex.org/RID/#RID20066	gray communicating ramus to second cervical spinal nerve
+http://www.radlex.org/RID/#RID36005	tributary of superior thalamostriate vein
+http://www.radlex.org/RID/#RID29408	muscle layer of left intermediate major calyx
+http://www.radlex.org/RID/#RID42356	lateral head of left flexor hallucis brevis
+http://www.radlex.org/RID/#RID28316	dura mater of anterior rootlet of right fifth lumbar nerve
+http://www.radlex.org/RID/#RID1649	transplantation
+http://www.radlex.org/RID/#RID1040	superior laryngeal vein
+http://www.radlex.org/RID/#RID17402	t8 segment of right dorsal funiculus of spinal cord
+http://www.radlex.org/RID/#RID16310	set of vaginal nerves
+http://www.radlex.org/RID/#RID38506	ventral branch of lumbar artery
+http://www.radlex.org/RID/#RID32851	outer layer of endometrium
+http://www.radlex.org/RID/#RID48105	zone of fascia lata
+http://www.radlex.org/RID/#RID30350	set of minor renal calyces
+http://www.radlex.org/RID/#RID46966	middle posterior division segment of C7 root of right radial nerve
+http://www.radlex.org/RID/#RID44857	glandular branch of inferior thyroid artery
+http://www.radlex.org/RID/#RID43765	articular branch of median nerve
+http://www.radlex.org/RID/#RID38600	not requiring a physician
+http://www.radlex.org/RID/#RID3214	superficial peroneal retinaculum
+http://www.radlex.org/RID/#RID39142	posteromedial
+http://www.radlex.org/RID/#RID38050	left second lumbar vein
+http://www.radlex.org/RID/#RID20379	gray matter of anterior cingulate gyrus
+http://www.radlex.org/RID/#RID6255	adventitia
+http://www.radlex.org/RID/#RID26500	subgyral segment of right occipital lobe
+http://www.radlex.org/RID/#RID20740	laterodorsal tegmental nucleus
+http://www.radlex.org/RID/#RID28894	infraclavicular lymph node
+http://www.radlex.org/RID/#RID35491	rim sign of pelvis
+http://www.radlex.org/RID/#RID49998	region of investing fascia of hand
+http://www.radlex.org/RID/#RID41844	diaphysis of phalanx of ring finger
+http://www.radlex.org/RID/#RID1898	articular cartilage of acromion
+http://www.radlex.org/RID/#RID42345	medial head of right gastrocnemius
