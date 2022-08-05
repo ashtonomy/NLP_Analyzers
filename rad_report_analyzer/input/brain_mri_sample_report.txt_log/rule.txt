@@ -4,4 +4,70 @@
 
 @RULES
 
-_clause <- _headerZone _headerZone _headerZone _headerZone _headerZone _headerZone @@
+_clause <- _zoneHeader alpha _noun _noun @@
+_clause <- _np _vg _np _advl _mumble \- _np _advl @@
+_clause <- _zoneHeader _np @@
+_clause <- _zoneHeader num _noun _advl _vg _advl @@
+_clause <- _np @@
+_clause <- _np _np \- _adj _noun @@
+_clause <- _adj _noun _noun @@
+_clause <- _np _vg _np @@
+_clause <- _np _np \- _adj _noun @@
+_clause <- _noun _noun _noun _noun _advl _vg @@
+_clause <- _np _adj @@
+_clause <- _np _np \- _np _vg @@
+_clause <- _np _vg _np @@
+_clause <- _advl _adj _noun _adj _adj _adj _vg _np @@
+_clause <- _np _vg _np @@
+_clause <- _np _prep _advl _adj @@
+_clause <- _np @@
+_clause <- _np _mumble @@
+_clause <- _np _mumble _np \( _noun _noun _advl \) @@
+_clause <- _np _vg _np @@
+_clause <- _np _advl @@
+_clause <- _advl _vg @@
+_clause <- _advl _vg _np _advl @@
+_clause <- _np @@
+_clause <- _vg @@
+_clause <- _vg _np @@
+_clause <- _np _advl _vg _np @@
+_clause <- _np _vg _np _advl @@
+_clause <- _np _vg _np _advl _adjc _advl @@
+_clause <- _vg _np _np _advl _mumble @@
+_clause <- _np @@
+_clause <- _adj _mumble _mumble \) @@
+_clause <- _np _vg _np _np @@
+_clause <- _np _vg _np @@
+_clause <- _np _vg @@
+_clause <- _np _vg _np @@
+_clause <- _np @@
+_clause <- _np _vg _advl @@
+_clause <- _np @@
+_clause <- _np @@
+_clause <- _np _vg _adjc @@
+_clause <- _np _vg @@
+_clause <- _np _vg _np @@
+_clause <- _np _vg _adjc @@
+_clause <- _np _vg _adjc @@
+_clause <- _np _vg _adjc @@
+_clause <- _np _vg _np _advl _np @@
+_clause <- _np _vg _seg @@
+_clause <- _np _advl @@
+_clause <- _np _vg @@
+_clause <- _np _vg _adjc @@
+_clause <- _np _vg _adjc @@
+_clause <- _zoneHeader num @@
+_clause <- _adj _adj _noun _adj _np _advl _vg _advl @@
+_clause <- _np @@
+_clause <- _vg _seg @@
+_clause <- _vg @@
+_clause <- _np @@
+_clause <- _np @@
+_clause <- _adj _noun _noun _verb _np _advl @@
+_clause <- num @@
+_clause <- _np _advl @@
+_clause <- _np @@
+_clause <- _np @@
+_clause <- _np _vg _np @@
+_clause <- num @@
+_clause <- _vg _advl _mumble _noun @@

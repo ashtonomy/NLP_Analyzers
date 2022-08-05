@@ -1,0 +1,24 @@
+###############################################
+# FILE: bodyAttributes
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-5 12:17:30
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _TEXTZONE _sent _clause
+
+@POST
+L("child") = pndown(N(1));
+if (pnname(L("child")) == "_np") {
+	"bodyAttr.txt" << "\nCOMPOUND\n";
+}
+"bodyAttr.txt" << N("$text", 1) << "\n" << N("$text", 2) << "\n" << N("$text", 3) << "\n---------------\n";
+single();
+
+@RULES
+_xNIL <-
+	_np	### (1)
+	_vg
+	_adjc
+	@@

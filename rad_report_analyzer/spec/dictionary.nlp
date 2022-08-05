@@ -1,0 +1,13 @@
+###############################################
+# FILE: dictionary
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-5 12:8:52
+# MODIFIED:
+###############################################
+
+@CODE
+DictionaryClear();
+DictionaryWord("intact","nominal", "true", "str");
+DictionaryEnd();
+@@CODE

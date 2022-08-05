@@ -1,0 +1,17 @@
+###############################################
+# FILE: textZones02
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-5 11:38:8
+# MODIFIED:
+###############################################
+
+@NODES _TEXTZONE
+
+@POST
+splice(1,1);
+
+@RULES
+_xNIL <-
+	_headerZone	### (1)
+	@@

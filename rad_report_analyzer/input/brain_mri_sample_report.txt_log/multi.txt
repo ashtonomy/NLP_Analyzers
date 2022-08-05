@@ -1,0 +1,6 @@
+Right	Right
+_noun	MultiHance
+_noun	TECHNIQUE Sagittal
+_noun	FLAIR
+_noun	T
+_noun	FINDINGS Evaluation

@@ -11,7 +11,7 @@ if (!G("find html"))
   exitpass();
 @@CODE
 
-@NODES _ROOT
+@NODES _ROOT 
 
 @RULES
 _commentTag <-

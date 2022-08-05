@@ -1,0 +1,25 @@
+[Unhandled period]
+[Unhandled period]
+[Unhandled period]
+[Unhandled period]
+[Unhandled period]
+[Unhandled period]
+[Unhandled period]
+[Unhandled period]
+[Unhandled period]
+[mhbvfix error(2):] There is adjacent
+[fixvgattrs error: There is adjacent]
+[mhbvfix error(2):] There is no
+[fixvgattrs error: There is no]
+[mhbvfix error(2):] There is no
+[fixvgattrs error: There is no]
+[mhbvfix error(2):] There is no
+[fixvgattrs error: There is no]
+[mhbvfix error(2):] are intact
+[fixvgattrs error: are intact]
+[mhbvfix error(2):] are unremarkable
+[fixvgattrs error: are unremarkable]
+[mhbvfix error(2):] is symmetric
+[fixvgattrs error: is symmetric]
+vcongj: -ing  right  114,4
+Voice mismatch: right

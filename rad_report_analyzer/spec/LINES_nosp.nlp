@@ -10,7 +10,7 @@
 L("hello") = 0;
 @@CODE
 
-@PATH _ROOT
+@NODES _ROOT
 
 @PRE
 <3,3> varz("NL");
@@ -24,7 +24,6 @@ L("hello") = 0;
   singler(2,3);
 @RULES
 _LINE [unsealed] <-
-	_header
 	_xANY
 	_xWILD [star fail=(_dummy)]
 	_xANY [opt lookahead]

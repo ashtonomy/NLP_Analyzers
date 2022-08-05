@@ -27,7 +27,7 @@ else if (G("verbose"))
    closefile(L("htmltitle"));
   }
 @@CODE
-@NODES _ROOT
+@NODES _ROOT _headerZone
 @CHECK
   if (!N("tag"))	# Not a tag.
     fail();
