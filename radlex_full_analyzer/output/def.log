@@ -1,0 +1,11 @@
+Sequence file is:
+tokenize
+NOHASH rule: _columnName [] [] <- _xWILD [0,0 fails=(	 
+)] [] _xWILD [1,1 matches=(	 
+)] [] @@
+NOHASH rule: _columnField [] [] <- _xWILD [0,0 fails=(	 
+)] [] _xWILD [1,1 matches=(	 
+)] [] @@
+
+Passes: (tok,nil) (nlp,KBFuncs) (nlp,initKB) (nlp,columnHeaders) (nlp,labels) (nlp,labelEntry) (nlp,columnName) (nlp,columnField) (,addLabelsToKB) (nlp,kbOut) 
+

@@ -1,0 +1,24 @@
+###############################################
+# FILE: labelEntry
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 14:55:45
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _labels
+
+@POST
+S("RID") = makeconcept(G("RadLex"), N("$text", 5));
+single();
+
+@RULES
+_labelEntry <-
+	http							### (1)
+	_xWILD [plus fails=(\#)]		### (2)
+	\#								### (3)
+	RID								### (4)
+	_xNUM							### (5)
+	_xWILD [plus fails=(\n \r)]		### (6)
+	_xWILD [one matches=(\n \r)]	### (7)
+	@@

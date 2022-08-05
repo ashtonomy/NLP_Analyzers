@@ -1,0 +1,23 @@
+###############################################
+# FILE: removeObsoleteLabels
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 14:37:55
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+excise(1,6);
+noop();
+
+@RULES
+_xNIL <-
+	http						### (1)
+	_xWILD [plus fails=(\t)]	### (2)
+	\t							### (3)
+	RID							### (4)
+	_xNUM						### (5)
+	\n [opt]					### (6)
+	@@

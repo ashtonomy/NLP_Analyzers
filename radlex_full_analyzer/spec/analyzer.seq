@@ -1,0 +1,10 @@
+tokenize	nil	# Gen:   Convert input to token list
+nlp	KBFuncs	# comment
+nlp	initKB	# comment
+nlp	columnHeaders	# comment
+nlp	labels	# comment
+nlp	labelEntry	# comment
+nlp	columnName	# comment
+nlp	columnField	# comment
+/nlp	addLabelsToKB	# comment
+nlp	kbOut	# comment

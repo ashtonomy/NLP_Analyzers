@@ -1,0 +1,16 @@
+###############################################
+# FILE: header
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 17:30:58
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@RULES
+_columnHeaders <-
+	Class							### (1)
+	_xWILD [plus fails=(\n \r)]		### (2)
+	_xWILD [one matches=(\n \r)]	### (3)
+	@@

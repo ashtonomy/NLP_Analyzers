@@ -1,0 +1,38 @@
+###############################################
+# FILE: attribute
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 18:4:17
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _labels _labelEntry
+
+@CODE
+G("currAttr") = 0;
+@@CODE
+
+@POST
+if (!G("currAttr")) {
+	G("currAttr") = findattrs(X("RID", 3));
+}
+
+if ( !N("$text", 1) ) {
+	S("empty") = 1;
+	#New
+	L("tempAttr") = G("currAttr");
+	G("currAttr") = nextattr(G("currAttr"));
+	rmattr(X("RID", 3), attrname(L("tempAttr")));
+}
+else {
+	S("empty") = 0;
+	addstrval(X("RID", 3), attrname(G("currAttr")), N("$text", 1));
+	G("currAttr") = nextattr(G("currAttr"));
+}
+single();
+
+@RULES
+_columnField <-
+	_xWILD [fails=(\t \n)]			### (1)
+	_xWILD [one matches=(\t \n)]	### (2)
+	@@

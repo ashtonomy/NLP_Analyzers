@@ -1,0 +1,18 @@
+[Pass 1 time: 0.466 sec     tokenize]
+[Pass 2 time: 0.001 sec     KBFuncs]
+[Pass 3 time: 0 sec     initKB]
+[Pass 4 time: 0.443 sec     columnHeaders]
+[Pass 5 time: 0.477 sec     labels]
+[Pass 6 time: 0.64 sec     labelEntry]
+[Pass 7 time: 0.697 sec     columnName]
+[Pass 8 time: 1.114 sec     columnField]
+[Pass 9 time: 0.001 sec     addLabelsToKB]
+[Pass 10 time: 0.282 sec     kbOut]
+[Input file: c:\Users\tasht\Documents\Clemson\npl_project\npl_plus_plus\radlex_full_analyzer\input\radlex_full_sample.txt]
+[Total passes: 10
+[Total time: 4.121 sec]
+[Time per 1000 chars (4.121/134161): 0.0307168 sec]
+[Time per pass per 1000 chars: 0.00307168]
+infile  passes tottime length tot/1000 tot/pass/1000
+c:\Users\tasht\Documents\Clemson\npl_project\npl_plus_plus\radlex_full_analyzer\input\radlex_full_sample.txt	10	4.121	134161	0.0307168	0.00307168
+[Clean time: 0.003 sec]

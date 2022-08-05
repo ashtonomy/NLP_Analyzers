@@ -1,0 +1,15 @@
+###############################################
+# FILE: initKB
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 15:19:12
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("RadLex") = findconcept(findroot(),"RadLex");
+if (!G("RadLex")) G("RadLex") = makeconcept(findroot(),"RadLex");
+rmchildren(G("RadLex"));
+
+@@CODE

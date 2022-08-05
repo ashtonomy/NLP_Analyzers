@@ -1,0 +1,25 @@
+###############################################
+# FILE: columnName
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 19:1:55
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _columnHeaders
+
+@POST
+# Add column attributes for each concept in KB here
+L("tempCon") = down(findconcept(findroot(),"RadLex"));
+while ( L("tempCon") ) {
+	addattr(L("tempCon"), N("$text", 1));
+	L("tempCon") = next(L("tempCon"));
+}
+excise(2,2);
+singler(1,1);
+
+@RULES
+_columnName <-
+	_xWILD [fails=(\t \n)]			### (1)
+	_xWILD [one matches=(\t \n)]	### (2)
+	@@

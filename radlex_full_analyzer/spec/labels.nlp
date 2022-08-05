@@ -1,0 +1,19 @@
+###############################################
+# FILE: labels
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-8-4 17:46:55
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+singler(2,3);
+
+@RULES
+_labels <-
+	_columnHeaders				### (1)
+	_xWILD [plus fails=(_xEND)]	### (2)
+	_xEND						### (3)
+	@@
